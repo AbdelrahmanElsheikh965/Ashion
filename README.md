@@ -13,3 +13,11 @@ so it's one solid rock repo
  => Images Model and uploading to free host API               
  => Root / endpoint (landing page)               
  => Fixing Bugs    
+
+
+What I've worked on (Frontend)
+1. Landing page
+2. Cart page (quantity and price manipulations)
+3. Payment page
+4. Rendering Images
+5. Fixing Bugs
