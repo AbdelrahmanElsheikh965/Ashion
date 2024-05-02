@@ -16,23 +16,6 @@ const Footer = () => {
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
                   do eiusmod tempor incididunt cilisis.
                 </p>
-                <div className="footer__payment">
-                  <Link to="#">
-                    <img src="img/payment/payment-1.png" alt="" />
-                  </Link>
-                  <Link to="#">
-                    <img src="img/payment/payment-2.png" alt="" />
-                  </Link>
-                  <Link to="#">
-                    <img src="img/payment/payment-3.png" alt="" />
-                  </Link>
-                  <Link to="#">
-                    <img src="img/payment/payment-4.png" alt="" />
-                  </Link>
-                  <Link to="#">
-                    <img src="img/payment/payment-5.png" alt="" />
-                  </Link>
-                </div>
               </div>
             </div>
             <div className="col-lg-2 col-md-3 col-sm-5">
@@ -91,12 +74,6 @@ const Footer = () => {
                   </Link>
                   <Link to="#">
                     <i className="fa fa-youtube-play"></i>
-                  </Link>
-                  <Link to="#">
-                    <i className="fa fa-instagram"></i>
-                  </Link>
-                  <Link to="#">
-                    <i className="fa fa-pinterest"></i>
                   </Link>
                 </div>
               </div>
