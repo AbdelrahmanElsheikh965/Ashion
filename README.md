@@ -1,4 +1,4 @@
-## Cartify
+## Ashion
 
 This is an Up'n Running E-commerce app built with Django for the backend and React for the frontend.       
 I've worked with 3 teammates on this project on both the backend and frontend.    
